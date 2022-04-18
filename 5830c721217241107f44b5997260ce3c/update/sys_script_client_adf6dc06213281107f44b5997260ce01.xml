@@ -33,7 +33,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>adf6dc06213281107f44b5997260ce01</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Set Loaner Item Type</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">5830c721217241107f44b5997260ce3c</sys_package>
@@ -41,7 +41,7 @@
         <sys_scope display_value="Loaner Request">5830c721217241107f44b5997260ce3c</sys_scope>
         <sys_update_name>sys_script_client_adf6dc06213281107f44b5997260ce01</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-12 19:27:19</sys_updated_on>
+        <sys_updated_on>2022-04-18 16:33:05</sys_updated_on>
         <table>x_cdltd_loaner_req_loaner_request</table>
         <type>onChange</type>
         <ui_type>0</ui_type>
